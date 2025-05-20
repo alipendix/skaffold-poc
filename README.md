@@ -61,3 +61,10 @@ Sigue los pasos según tu sistema operativo para instalar Skaffold:
  skaffold dev
 ```
 
+### 3. Servicio accesible mediante
+
+  ```bash
+ minikube service skaffold-service
+```
+
+
